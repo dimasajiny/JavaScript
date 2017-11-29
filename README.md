@@ -1,0 +1,2 @@
+# JavaScript
+Script for Safelink
